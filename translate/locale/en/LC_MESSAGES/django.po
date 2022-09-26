@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-26 15:00+0500\n"
+"PO-Revision-Date: 2022-09-26 15:01+0000\n"
+"Last-Translator:   <admin@gmail.com>\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: .\core\settings.py:109
+msgid "Uzbek"
+msgstr ""
+
+#: .\core\settings.py:110
+msgid "English"
+msgstr ""
+
+#: .\templates\malumot.html:32
+msgid "sarlavha"
+msgstr "title"
+
+#: .\templates\malumot.html:33
+msgid "batafsil"
+msgstr "in detail"
+
+#: .\templates\malumot.html:34
+msgid "hato"
+msgstr "error"
